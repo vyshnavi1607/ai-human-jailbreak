@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Data & embeddings
+data/
+*.pkl
+
+# HuggingFace cache
+.cache/
+hf_cache/
+
+# OS
+.DS_Store
+Thumbs.db
