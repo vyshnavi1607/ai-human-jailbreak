@@ -16,3 +16,5 @@ hf_cache/
 # OS
 .DS_Store
 Thumbs.db
+
+catboost_info/
